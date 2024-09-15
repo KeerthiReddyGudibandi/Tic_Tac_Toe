@@ -13,5 +13,4 @@ This game is implemented using using HTML, CSS, and JavaScript. This game allows
 - **HTML:** For the game structure.
 - **CSS:** For styling the game board and user interface.
 - **JavaScript:** For game logic and interactivity.
-# If X wins
-![Screenshot](images/If X wins.png)
+
