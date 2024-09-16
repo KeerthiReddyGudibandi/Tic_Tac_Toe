@@ -15,3 +15,4 @@ This game is implemented using using HTML, CSS, and JavaScript. This game allows
 - **JavaScript:** For game logic and interactivity.
 ## 1. If X wins
 ![Screenshot](https://github.com/KeerthiReddyGudibandi/Tic_Tac_Toe/blob/main/X%20wins.jpg?raw=true)
+<img src="https://github.com/username/repository-name/blob/main/image.png" alt="Sample Image" width="400"/>
