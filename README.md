@@ -15,6 +15,6 @@ This game is implemented using using HTML, CSS, and JavaScript. This game allows
 - **JavaScript:** For game logic and interactivity.
 ## 1. If X wins
 <div id="header" align="center">
-  <img src="https://github.com/KeerthiReddyGudibandi/Tic_Tac_Toe/blob/main/X%20wins.jpg?raw=true" width="600"/>
+  <img src="https://github.com/KeerthiReddyGudibandi/Tic_Tac_Toe/blob/main/X%20wins.jpg?raw=true" width="600" height="500"/>
 </div>
 
