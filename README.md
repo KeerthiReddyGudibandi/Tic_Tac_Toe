@@ -24,3 +24,8 @@ This game is implemented using using HTML, CSS, and JavaScript. This game allows
   <img src="https://github.com/KeerthiReddyGudibandi/Tic_Tac_Toe/blob/main/O%20wins.jpg?raw=true" width="400" height="500"/>
 </div>
 
+### 3. If it is a draw
+<div id="header" align="center">
+  <img src="https://github.com/KeerthiReddyGudibandi/Tic_Tac_Toe/blob/main/O%20wins.jpg?raw=true" width="400" height="500"/>
+</div>
+
