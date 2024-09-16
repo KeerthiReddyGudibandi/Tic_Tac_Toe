@@ -18,4 +18,8 @@ This game is implemented using using HTML, CSS, and JavaScript. This game allows
 <div id="header" align="center">
   <img src="https://github.com/KeerthiReddyGudibandi/Tic_Tac_Toe/blob/main/X%20wins.jpg?raw=true" width="400" height="500"/>
 </div>
+### 1. If O wins
+<div id="header" align="center">
+  <img src="https://github.com/KeerthiReddyGudibandi/Tic_Tac_Toe/blob/main/X%20wins.jpg?raw=true" width="400" height="500"/>
+</div>
 
