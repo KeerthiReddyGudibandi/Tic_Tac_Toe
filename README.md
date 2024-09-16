@@ -14,4 +14,4 @@ This game is implemented using using HTML, CSS, and JavaScript. This game allows
 - **CSS:** For styling the game board and user interface.
 - **JavaScript:** For game logic and interactivity.
 ## 1. If X wins
-![Screenshot]()
+![Screenshot](https://github.com/KeerthiReddyGudibandi/Tic_Tac_Toe/blob/main/X%20wins.jpg?raw=true)
